@@ -1,6 +1,6 @@
 <?php
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
-    $to = "your-email@gmail.com"; // Ganti dengan email Gmail kamu
+    $to = "yadh9090@gmail.com"; // Ganti dengan email Gmail kamu
     $subject = "Formulir Absensi";
 
     // Mengambil data dari form
